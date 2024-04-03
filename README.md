@@ -1,4 +1,8 @@
-### Hi there 👋
+### KNSI Czarna Magia
+We are an Artificial Intelligence Student Club founded in 2023 by Jan Karaś at Univeristy of Warmia and Mazury in Olsztyn. Currently mostly involved in Computer Vision and NLP projects. Join our [Discord server](https://discord.gg/VWc6wXqYEj) and build AI with us!
+
+# Our project
+...under construction. Comming soon! ; )
 
 <!--
 **knsiczarnamagia/knsiczarnamagia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
