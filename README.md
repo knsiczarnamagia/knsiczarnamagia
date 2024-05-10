@@ -10,7 +10,7 @@ We are an Artificial Intelligence Student Club founded in 2023 by [Jan Karaś](h
 
 ...more project comming soon! ; )
 
-### In progress (stundets of UWM can join)!
+### In progress (students of UWM can join)!
 | **Project** | **Description** |
 |:---:|:---:|
 | Fake Face | Generation of non existing faces |
