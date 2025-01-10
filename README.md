@@ -1,40 +1,27 @@
 # KNSI Czarna Magia
-We are an Artificial Intelligence Student Club founded in 2023 by [Jan Karaś]([https://github.com/KTFish](https://www.linkedin.com/in/jan-kara%C5%9B-3b4025229/)) at Univeristy of Warmia and Mazury in Olsztyn. Currently mostly involved in Computer Vision and NLP projects. Join our [Discord server](https://discord.gg/VWc6wXqYEj), checkout our [LinkedIn](https://www.linkedin.com/posts/czarna-magia-student-artificial-inteligence-society_caiak-activity-7197965392739241987-TKPd?utm_source=share&utm_medium=member_desktop) and build AI with us!
+We are an Artificial Intelligence Student Society, founded in 2023 by [Jan Karaś]([https://github.com/KTFish](https://www.linkedin.com/in/jan-kara%C5%9B-3b4025229/)) at the University of Warmia and Mazury in Olsztyn. Currently, we are primarily involved in Computer Vision and NLP projects. Join our [Discord server](https://discord.gg/VWc6wXqYEj), check out our [LinkedIn](https://linktr.ee/czarnamagia), and build AI with us!
 
-### Our projects
-| **Project** | **Description** |
-|:---:|:---:|
-| Point Cloud Segmentation | Neptun's Eye is a ML-powered Point Cloud segmentation tool. The project have been realised with mentorship from Visimind. The project conists not only from ML training scripts but also tests, datacards and a desktop aplication. |
-| Face Expression Recognizer | Face Expression Recognizer is an application which uses custom machine learning algorithms trained for analysing video and image data. It's main goal is to detect and classify human face expressions. |
-| Hate Detection | ... |
-| Fake Face | Generation of non existing faces |
-| Detection of Solar Panels | Using YOLO in order to detect solar panels. |
-| YT plugin | Click bait removal YT plugin. |
-| RAG | Implementing RAG that will help retrieve informations about our Alma Mater. |
+## 🌊 Wave Projects 🌊
+WAVE is a project development framework designed by our founder, tailored to ambitious stuident projects.
 
+### Wave 3 | Winter Semester 2024
+| **Project** | **Description** | **Deployed demo** |
+| :---: | :---: | :---: |
+| [Magical Drones](<https://github.com/knsiczarnamagia/wave3-magical-drones>) | Satellite photo to map translation tool utilizing GANs on our custom dataset of Polish cities, supervised by ML Engineer Dominik Mielczarek | Comming soon! |
+| [Skryba](<https://github.com/knsiczarnamagia/wave3-tts>) |  README files from GitHub into audio narrations abstractor and transformator utilizing LLM and TTS models  | Comming soon! |
+| [House prises](<https://github.com/knsiczarnamagia/wave3-house-prices>) |  Enhanced real estate price estimation tool utilizing predictive modeling to provide accurate and actionable insights | Comming soon! |
 
-...more project comming soon! ; )
+### Wave 2 | 2024L
+| **Project** | **Description** | **Deployed demo** |
+| :---: | :---: | :---: |
+| [Neptun's Eye](<https://github.com/KTFish/neptuns-eye>)  | ML-powered point cloud segmentation tool. The project has been realized with mentorship from Visimind. It includes not only ML training scripts but also tests, data cards and a desktop application  | [Desktop app](<https://github.com/KTFish/neptuns-eye/releases/tag/v0.1.2>) |(<https://github.com/KTFish/neptuns-eye/releases/tag/v0.1.2>) |
+| [Solar Panels Detector ](<https://github.com/knsiczarnamagia/yolo>) | Detecting solar panels from satellite photo datasets utilizing the YOLO model | [ Gradio Demo ](<https://huggingface.co/spaces/cv-yolo/solarpanel-detector>) |
+| [Fake Face Generator](<https://github.com/knsiczarnamagia/image-generation>) | Generation of non existing faces utilizing Diffusion Models | No Demo |
+| YouTube Clickbait Remover | Removing clickbait content from YouTube Home page utilizing our plugin | No Demo |
+| RAG-based Alma Mater Knowledge Search | A RAG implementation designed to assist in retrieving information about our university | No Demo |
 
-### Startng in Wave 3 | 2024Z
-| **Project** | **Description** |
-|:---:|:---:|
-| Project 1 | |
-|Project 2 | |
-|Project 3 | |
-|Project n | | 
-
-
-<!--
-**knsiczarnamagia/knsiczarnamagia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wave 1 | 2023Z
+| **Project** | **Description** | **Deployed demo** |
+| :---: | :---: | :---: |
+| [Face Expression Recognizer](<https://github.com/knsiczarnamagia/face-expression-recognizer>) | Analysis of a human face in real time with the main goal of detecting and classifying human face expressions | [Gradio Demo](https://huggingface.co/spaces/jlynxdev/face-expression-recognizer) |  
+| Hate Detection | Leveraging NLP to identify harmful and offensive content using a dataset of banned material from wykop.pl, provided by the Linguistic Engineering and Text Analysis Department (ZILiAT-NASK) | No Demo |
