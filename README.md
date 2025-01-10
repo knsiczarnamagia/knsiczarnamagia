@@ -2,7 +2,7 @@
 We are an Artificial Intelligence Student Society, founded in 2023 by [Jan Karaś]([https://github.com/KTFish](https://www.linkedin.com/in/jan-kara%C5%9B-3b4025229/)) at the University of Warmia and Mazury in Olsztyn. Currently, we are primarily involved in Computer Vision and NLP projects. Join our [Discord server](https://discord.gg/VWc6wXqYEj), check out our [LinkedIn](https://linktr.ee/czarnamagia), and build AI with us!
 
 ## 🌊 Wave Projects 🌊
-WAVE is a project development framework designed by our founder, tailored to ambitious stuident projects.
+WAVE is a project development framework designed by our founder, tailored to ambitious student projects.
 
 ### Wave 3 | Winter Semester 2024
 | **Project** | **Description** | **Deployed demo** |
